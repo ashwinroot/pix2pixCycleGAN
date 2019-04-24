@@ -1,4 +1,0 @@
-[submodule "CycleGAN-TensorFlow"]
-	path = CycleGAN-TensorFlow
-	url = https://github.com/vanhuyz/CycleGAN-TensorFlow
-	branch = master
