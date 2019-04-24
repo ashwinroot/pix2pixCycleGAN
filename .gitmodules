@@ -1,0 +1,4 @@
+[submodule "CycleGAN-TensorFlow"]
+	path = CycleGAN-TensorFlow
+	url = https://github.com/ashwinroot/CycleGAN-TensorFlow
+	branch = master
